@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FireBaseTest</string>
+    <string name="enter_email_address">enter email address</string>
+    <string name="password">password</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_in">sign in</string>
+    <string name="log_in">Log in</string>
+    <string name="log_out">log out</string>
+    <string name="forget_password">forget password</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="reset">reset</string>
+    </resources>
